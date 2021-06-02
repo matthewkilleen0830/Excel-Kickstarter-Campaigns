@@ -8,6 +8,8 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Steps
 
+## Instructions
+
 ![Kickstarter Table](Images/FullTable.png)
 
 Using the Excel table provided, we modified and analyzed the data of 4,000 past Kickstarter projects in an attempt to uncover some market trends.
@@ -115,3 +117,8 @@ If one were to describe a successful crowdfunding campaign, most people would us
 * Used this data to determine if there is more variability with successful or unsuccessful campaigns. &nbsp;Does this make sense? &nbsp;Why or why not?
 
 - - -
+
+* Use your data to determine whether the mean or the median summarizes the data more meaningfully.
+
+* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
